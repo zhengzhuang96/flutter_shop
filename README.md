@@ -25,3 +25,12 @@ flutter 商城demo入门
 ### 功能插件，拨打电话、发送邮件、打开网页、发送邮件
 
  * [url_launcher](https://github.com/flutter/plugins/tree/master/packages/url_launcher)
+
+### 可自定义上拉加载下拉刷新
+
+ * [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)
+
+
+### Google家新出的Flutter中一个简单的状态管理框架
+
+ * [flutter-provide](https://github.com/google/flutter-provide)
